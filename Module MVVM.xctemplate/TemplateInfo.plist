@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Kind</key>
+    <string>Xcode.IDEKit.TextSubstitutionFileTemplateKind</string>
+    <key>Label</key>
+    <string>Module MVVM</string>
+    <key>Description</key>
+    <string>Template for MVVM module with folder and files</string>
+    <key>Version</key>
+    <integer>1</integer>
+    <key>Icon</key>
+    <string>TemplateIcon</string>
+    <key>Options</key>
+    <array>
+        <dict>
+            <key>Identifier</key>
+            <string>moduleName</string>
+            <key>Name</key>
+            <string>Module Name</string>
+            <key>Type</key>
+            <string>text</string>
+            <key>Default</key>
+            <string>Module</string>
+        </dict>
+    </array>
+</dict>
+</plist>
