@@ -8,7 +8,7 @@ class ___VARIABLE_moduleName___ViewModel {
 
     let disposeBag = DisposeBag()
     
-    let errorMessage = PublishedSubject<String>()
+    let errorMessage = PublishSubject<String>()
     
     init() {
         
